@@ -1,9 +1,18 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 111" },
-    { "id": 2, "title": "Post 222" },
-    { "id": 3, "title": "Post 333" }
+  "novedades": [
+     {
+     "Codigo" : 1,               
+     "BrokerCodigo" : 1,         
+     "AseguradoraCodigo" : 1,    
+     "SeguroCodigo" : 1,         
+     "IntencionNro" : 1,         
+     "PolizaNro" : 999,          
+     "LocalCodigo" : 5,          
+     "VendedorLegajo" : 10001,   
+     "ClienteDniCod" : 96,       
+     "ClienteDniNro" : 10100100
+ }
   ],
   "comments": [
     { "id": 1, "body": "some commeasdasnt", "postId": 111 },
