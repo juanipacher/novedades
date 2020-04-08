@@ -1,7 +1,7 @@
 
 {
   "novedades": [
-     {
+      {
      "Codigo" : 1,               
      "BrokerCodigo" : 1,         
      "AseguradoraCodigo" : 1,    
@@ -12,7 +12,32 @@
      "VendedorLegajo" : 10001,   
      "ClienteDniCod" : 96,       
      "ClienteDniNro" : 10100100
+ },
+  {
+     "Codigo" : 2,               
+     "BrokerCodigo" : 1,         
+     "AseguradoraCodigo" : 1,    
+     "SeguroCodigo" : 1,         
+     "IntencionNro" : 3,         
+     "PolizaNro" : 1000,          
+     "LocalCodigo" : 5,          
+     "VendedorLegajo" : 10001,   
+     "ClienteDniCod" : 96,       
+     "ClienteDniNro" : 12456781
+ },
+  {
+     "Codigo" : 3,               
+     "BrokerCodigo" : 1,         
+     "AseguradoraCodigo" : 1,    
+     "SeguroCodigo" : 1,         
+     "IntencionNro" : 2,         
+     "PolizaNro" : 1001,          
+     "LocalCodigo" : 5,          
+     "VendedorLegajo" : 10001,   
+     "ClienteDniCod" : 96,       
+     "ClienteDniNro" : 23252629
  }
+
   ],
   "comments": [
     { "id": 1, "body": "some commeasdasnt", "postId": 111 },
